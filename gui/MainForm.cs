@@ -16,6 +16,7 @@ public partial class MainForm : Form
         // Set the size of the form (optional)
         this.Size = new System.Drawing.Size(1200, 800);
     }
+    
     private void button1_Click(object sender, EventArgs e)
     {
         label1.Text = "Hello, World!";
